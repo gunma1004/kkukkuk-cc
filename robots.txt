@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kkukkuk-cc.netlify.app/sitemap.xml
